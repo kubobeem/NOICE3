@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R9AZmSgfRqo=",
+  "dgSpecHash": "fly5cnsy+94=",
   "success": true,
-  "projectFilePath": "D:\\code\\NOICE_speed_up\\NoiceServer\\NoiceServer.csproj",
+  "projectFilePath": "D:\\code\\NOICE3\\NoiceServer\\NoiceServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tanak\\.nuget\\packages\\opencvsharp4\\4.10.0.20240615\\opencvsharp4.4.10.0.20240615.nupkg.sha512",
     "C:\\Users\\tanak\\.nuget\\packages\\opencvsharp4.runtime.win\\4.10.0.20240615\\opencvsharp4.runtime.win.4.10.0.20240615.nupkg.sha512",

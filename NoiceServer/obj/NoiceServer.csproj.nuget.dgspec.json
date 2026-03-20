@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\code\\NOICE_speed_up\\NoiceServer\\NoiceServer.csproj": {}
+    "D:\\code\\NOICE3\\NoiceServer\\NoiceServer.csproj": {}
   },
   "projects": {
-    "D:\\code\\NOICE_speed_up\\NoiceServer\\NoiceServer.csproj": {
+    "D:\\code\\NOICE3\\NoiceServer\\NoiceServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\code\\NOICE_speed_up\\NoiceServer\\NoiceServer.csproj",
+        "projectUniqueName": "D:\\code\\NOICE3\\NoiceServer\\NoiceServer.csproj",
         "projectName": "NoiceServer",
-        "projectPath": "D:\\code\\NOICE_speed_up\\NoiceServer\\NoiceServer.csproj",
+        "projectPath": "D:\\code\\NOICE3\\NoiceServer\\NoiceServer.csproj",
         "packagesPath": "C:\\Users\\tanak\\.nuget\\packages\\",
-        "outputPath": "D:\\code\\NOICE_speed_up\\NoiceServer\\obj\\",
+        "outputPath": "D:\\code\\NOICE3\\NoiceServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tanak\\AppData\\Roaming\\NuGet\\NuGet.Config"
